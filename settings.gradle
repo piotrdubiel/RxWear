@@ -1,0 +1,1 @@
+include ':rxwear', ':example-application', ':example-wear'
